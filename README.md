@@ -29,7 +29,7 @@ Web Developer and Video Editor
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="Instagram-Logo.svg" width="32" height="32" />
+                    <img src="https://github.com/satyabrata-saha/satyabrata-saha/blob/main/Instagram-Logo.svg" width="32" height="32" />
                     </picture>
           </a>
           <a href="https://www.linkedin.com/in/satyabrata-saha" target="_blank" rel="noreferrer">
