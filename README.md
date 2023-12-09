@@ -48,7 +48,8 @@ Web Developer and Video Editor
         </a></p>
         
 ### Badges<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/satyabrata-saha"><img src="https://github-readme-stats.vercel.app/api?username=satyabrata-saha&show_icons=true&hide=prs,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="satyabrata-saha's GitHub stats" /></a>
+
 <a href="http://www.github.com/satyabrata-saha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyabrata-saha&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/satyabrata-saha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyabrata-saha&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
