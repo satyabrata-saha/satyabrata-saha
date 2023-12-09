@@ -28,8 +28,8 @@ Web Developer and Video Editor
           <a href="http://www.instagram.com/satyabrata_saha_" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://github.com/satyabrata-saha/satyabrata-saha/blob/main/Instagram-Logo.svg" />
-                    <img src="https://github.com/satyabrata-saha/satyabrata-saha/blob/main/Instagram-Logo.svg" width="32" height="32" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://github.com/satyabrata-saha/satyabrata-saha/blob/07f2385c6821e5fe625d2087f4f467324d63c3fe/Instagram-Logo.png" />
+                    <img src="https://github.com/satyabrata-saha/satyabrata-saha/blob/07f2385c6821e5fe625d2087f4f467324d63c3fe/Instagram-Logo.png" width="32" height="32" />
                     </picture>
           </a>
           <a href="https://www.linkedin.com/in/satyabrata-saha" target="_blank" rel="noreferrer">
