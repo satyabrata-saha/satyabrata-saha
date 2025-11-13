@@ -3,10 +3,11 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on [MyWatchlist](https://github.com/satyabrata-saha/mywatchlist)<br>
-🌱 I’m currently learning Next.js<br>
-👨‍💻 All of my projects are available at [satyabrata.dev](https://satyabrata.dev)<br>
-📫 How to reach me **hello.satyabrata.saha@gmail.com**<br>
+<!-- 🔭 I’m currently working on [MyWatchlist](https://github.com/satyabrata-saha/mywatchlist)<br>
+🌱 I’m currently learning Next.js<br> -->
+
+👨‍💻 All of my projects are available at [project.satyabrata.dev](project.satyabrata.dev)<br>
+📫 How to reach me **hello@satyabrata.dev**<br>
 ⚡ I watch So much Anime
 
 ## 🌐 Socials:
