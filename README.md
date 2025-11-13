@@ -6,7 +6,7 @@
 <!-- 🔭 I’m currently working on [MyWatchlist](https://github.com/satyabrata-saha/mywatchlist)<br>
 🌱 I’m currently learning Next.js<br> -->
 
-👨‍💻 All of my projects are available at [project.satyabrata.dev](project.satyabrata.dev)<br>
+👨‍💻 All of my projects are available at [project.satyabrata.dev](https://project.satyabrata.dev)<br>
 📫 How to reach me **hello@satyabrata.dev**<br>
 ⚡ I watch So much Anime
 
